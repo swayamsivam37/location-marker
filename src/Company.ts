@@ -26,4 +26,3 @@ export class Company implements MarkOnMap {
   }
 }
 
-//AIzaSyAXwRNFksnxRXxiGVTLeQGawoyJ7qJzH8M
